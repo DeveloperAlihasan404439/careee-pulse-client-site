@@ -1,0 +1,9 @@
+.react-tabs__tab{
+    background-color: #142F5C;
+    color: white;
+}
+
+.react-tabs__tab--selected{
+    background-color: #0B1221;
+    color: white;
+}
