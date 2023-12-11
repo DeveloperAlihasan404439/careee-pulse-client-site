@@ -1,6 +1,6 @@
 > # Career Pulse
-> Live Link(https://authfirebaseassignament11.web.app)]
-> Server site github link([https://authfirebaseassignament11.web.app](https://github.com/DeveloperAlihasan404439/Career-pulse--server-site-11)]
+> Live Link == https://authfirebaseassignament11.web.app
+> Server site github link == https://github.com/DeveloperAlihasan404439/Career-pulse--server-site-11
 
 - Basically this is a Job searching and applying related website. Where there is navbar. There are different routes. Like, Add job, My posted jobs, My Bids, Bid Requests. In the home page all type My posted jobs are displayed. These jobs are came from add jobs option. If an user is logged in then he/she will able to see the My posted jobs, dd job, My posted jobs, My Bids, and Bid Requests.. That means those are private routes. There are also a banner section and some featured jobs and clients feedback section and a footer also. 
 
